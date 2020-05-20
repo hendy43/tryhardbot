@@ -2,7 +2,7 @@ var Discord = require('discord.io')
 var logger = require('winston');
 var auth = require('./auth.json');
 
-const url = new URL(url ["https://api.opendota.com/api/players/384861297", base])
+// const url = new URL(url ["https://api.opendota.com/api/players/384861297", base])
 
 // Configure logger settings
 logger.remove(logger.transports.Console);
