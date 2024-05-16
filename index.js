@@ -58,7 +58,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
             case 'vincent':
                 bot.sendMessage({
                     to: channelID,
-                    message: 'tukang hisap'
+                    message: 'manusia'
                 });
             break;
             // buat tambah command lagi
